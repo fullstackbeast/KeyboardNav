@@ -1,0 +1,16 @@
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\KeyboardNav.exe
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\KeyboardNav.deps.json
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\KeyboardNav.runtimeconfig.json
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\KeyboardNav.runtimeconfig.dev.json
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\KeyboardNav.dll
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\ref\KeyboardNav.dll
+C:\Codelearnershub\KeyboardNav\bin\Debug\net5.0\KeyboardNav.pdb
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.csprojAssemblyReference.cache
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.AssemblyInfoInputs.cache
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.AssemblyInfo.cs
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.dll
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\ref\KeyboardNav.dll
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.pdb
+C:\Codelearnershub\KeyboardNav\obj\Debug\net5.0\KeyboardNav.genruntimeconfig.cache

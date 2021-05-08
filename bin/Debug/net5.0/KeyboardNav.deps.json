@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KeyboardNav/1.0.0": {
+        "runtime": {
+          "KeyboardNav.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeyboardNav/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
